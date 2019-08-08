@@ -1,5 +1,6 @@
 
 ANALYSIS:
+
 • As expected the hottest temperatures are being seen on the northern hemisphere given the inverse seasonal relationship.
 
 • Humidity appears to increase the closer we move to zero latitude.
