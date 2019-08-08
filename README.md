@@ -10,4 +10,4 @@ ANALYSIS:
 • Taking a closer look through gmaps, we can see a very well distributed sample of randomly selected cities
   How latitude impacts temperature, humidity, wind, and clouds.
 
-City_Latitude_v_Clouds.png
+![Image description](City_Latitude_v_Clouds.png)
